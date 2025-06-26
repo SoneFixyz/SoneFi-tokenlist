@@ -5,10 +5,10 @@
     "soneFi",
     "defi"
   ],
-  "timestamp": "2025-06-26T08:10:00.000+00:00",
+  "timestamp": "2024-10-16T08:10:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1868,
+      "chainId": 1946,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "WETH",
       "symbol": "WETH",
@@ -17,67 +17,58 @@
       "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/weth.png"
     },
     {
-      "chainId": 1868,
-      "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
-      "name": "USDC.e",
-      "symbol": "USDC.e",
+      "chainId": 1946,
+      "address": "0x0AC1CC398342Aab9f8fFE43dD578B2dF59ceEa5E",
+      "name": "WETH.s",
+      "symbol": "WETH.s",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/weth.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x8cce37e4a9752dd313c5F842Da3e57C7a1519D92",
+      "name": "WBTC.s",
+      "symbol": "WBTC.s",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/btc.png"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x6F405A7fdc7b4B1Ffad1C821a6bA89f13b48c4F3",
+      "name": "USDC.s",
+      "symbol": "USDC.s",
       "decimals": 6,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/usdc.png"
     },
     {
-      "chainId": 1868,
-      "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
-      "name": "USDT",
-      "symbol": "USDT",
+      "chainId": 1946,
+      "address": "0x97368885747176170506A65C0096b91236b744e7",
+      "name": "USDT.s",
+      "symbol": "USDT.s",
       "decimals": 6,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/usdt.png"
     },
     {
-      "chainId": 1868,
-      "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+      "chainId": 1946,
+      "address": "0x5bD7A9D2328EFF28ba3261dD81CB3f4e4FDF221e",
+      "name": "SOE",
+      "symbol": "SOE",
+      "decimals": 18,
+      "tag": "DeFi, Top",
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/soe.svg"
+    },
+    {
+      "chainId": 1946,
+      "address": "0x26e6f7c7047252DdE3dcBF26AA492e6a264Db655",
       "name": "ASTR",
       "symbol": "ASTR",
       "decimals": 18,
-      "tag": "Top",
+      "tag": "DeFi, Top",
       "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/astr.png"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
-      "name": "nsASTR",
-      "symbol": "nsASTR",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/nsastr.png"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x2fc9a87b1ef46dCDdF4801C36d752E0d5F243E4b",
-      "name": "nrETH",
-      "symbol": "nrETH",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/nreth.png"
-    },
-    {
-      "chainId": 1868,
-      "address": "0xea1e08A176528e2d7250a6F7001F18EDF0CaeCF0",
-      "name": "xnASTR",
-      "symbol": "xnASTR",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/xnastr.png"
-    },
-    {
-      "chainId": 1868,
-      "address": "0x60336f9296C79dA4294A19153eC87F8E52158e5F",
-      "name": "vASTR",
-      "symbol": "vASTR",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://assets.coingecko.com/coins/images/34706/standard/vASTR.png?1705893008"
     }
   ],
   "version": {

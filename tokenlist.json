@@ -1,11 +1,11 @@
 {
-  "name": "Sideswap",
+  "name": "SoneFi",
   "logoURI": "https://github.com/SoniFixyz/SoneFi-Materials/blob/main/logo/favicon.png",
   "keywords": [
     "soneFi",
     "defi"
   ],
-  "timestamp": "2025-01-07T08:10:00.000+00:00",
+  "timestamp": "2025-06-26T08:10:00.000+00:00",
   "tokens": [
     {
       "chainId": 1868,
@@ -14,7 +14,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://token-icons.s3.amazonaws.com/eth.png"
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/weth.png"
     },
     {
       "chainId": 1868,
@@ -23,7 +23,7 @@
       "symbol": "USDC.e",
       "decimals": 6,
       "tag": "Top",
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/usdc.png"
     },
     {
       "chainId": 1868,
@@ -32,7 +32,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "tag": "Top",
-      "logoURI": "https://assets.coingecko.com/coins/images/52913/standard/usdt.jpg?1734677175"
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/usdt.png"
     },
     {
       "chainId": 1868,
@@ -41,7 +41,7 @@
       "symbol": "ASTR",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://coin-images.coingecko.com/coins/images/22617/large/astr.png?1696521933"
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/astr.png"
     },
     {
       "chainId": 1868,
@@ -50,7 +50,7 @@
       "symbol": "nsASTR",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://assets.coingecko.com/coins/images/53907/standard/nsASTR_2x.png?1737707599g"
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/nsastr.png"
     },
     {
       "chainId": 1868,
@@ -59,7 +59,7 @@
       "symbol": "nrETH",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://img.sonex.so/nrETH-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/nreth.png"
     },
     {
       "chainId": 1868,
@@ -68,7 +68,7 @@
       "symbol": "xnASTR",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://app.kyo.finance/assets/webp/0e10302c.webp"
+      "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-tokenlist/refs/heads/main/assets/xnastr.png"
     },
     {
       "chainId": 1868,
@@ -83,6 +83,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 9
+    "patch": 1
   }
 }

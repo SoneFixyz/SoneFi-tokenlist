@@ -1,0 +1,88 @@
+{
+  "name": "Sideswap",
+  "logoURI": "https://github.com/SoniFixyz/SoneFi-Materials/blob/main/logo/favicon.png",
+  "keywords": [
+    "soneFi",
+    "defi"
+  ],
+  "timestamp": "2025-01-07T08:10:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1868,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://token-icons.s3.amazonaws.com/eth.png"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+      "name": "USDC.e",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/52913/standard/usdt.jpg?1734677175"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/22617/large/astr.png?1696521933"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
+      "name": "nsASTR",
+      "symbol": "nsASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/53907/standard/nsASTR_2x.png?1737707599g"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x2fc9a87b1ef46dCDdF4801C36d752E0d5F243E4b",
+      "name": "nrETH",
+      "symbol": "nrETH",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://img.sonex.so/nrETH-logo.png"
+    },
+    {
+      "chainId": 1868,
+      "address": "0xea1e08A176528e2d7250a6F7001F18EDF0CaeCF0",
+      "name": "xnASTR",
+      "symbol": "xnASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://app.kyo.finance/assets/webp/0e10302c.webp"
+    },
+    {
+      "chainId": 1868,
+      "address": "0x60336f9296C79dA4294A19153eC87F8E52158e5F",
+      "name": "vASTR",
+      "symbol": "vASTR",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://assets.coingecko.com/coins/images/34706/standard/vASTR.png?1705893008"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 9
+  }
+}
